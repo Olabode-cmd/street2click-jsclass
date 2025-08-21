@@ -181,3 +181,7 @@ function evenOrOdd(num) {
 }
 
 evenOrOdd(6)
+
+// Assignment
+// Write a function that takes in a number as an argument and tells us if
+// it is a prime number or not.
